@@ -1,5 +1,5 @@
  // ১. আপনার Firebase Database URL টি নিচে দিন (শেষে স্লেশ / অবশ্যই রাখবেন)
-const FIREBASE_URL = "https://YOUR-DATABASE-NAME.firebaseio.com/";
+const FIREBASE_URL = "https://esp32-home-59696-default-rtdb.firebaseio.com/";
 
 // ২. পেজ লোড হওয়ার সাথে সাথে Firebase থেকে সুইচের আগের আপডেটগুলো এনে UI তে দেখাবে
 document.addEventListener('DOMContentLoaded', () => {
